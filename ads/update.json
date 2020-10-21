@@ -1,0 +1,9 @@
+{
+    "name": "Kurwa69 - ads",
+    "description": "Categorized hosts files for DNS based content blocking",
+    "homeurl": "https://github.com/kurwa69/hosts",
+    "frequency": "occasional",
+    "issues": "https://github.com/kurwa69/hosts/issues",
+    "url": "https://raw.githubusercontent.com/kurwa69/hosts/main/ads/hosts",
+    "license": "CC BY 4.0"
+}
